@@ -43,7 +43,7 @@ STM32 · Python · Git · Embedded Software Development
 
 I'm interested in opportunities involving **embedded systems, firmware, robotics, control, and automation**.
 
-[LinkedIn](YOUR-LINKEDIN-LINK)
+https://www.linkedin.com/in/nourhan-donia-b9313b326
 
 ## ⚡ Fun fact
 
