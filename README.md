@@ -29,6 +29,10 @@ An Embedded C / AVR project focused on PWM-based control and microcontroller pro
 
 A menu-driven C application demonstrating structs, pointers, modular programming, data validation, searching, and record management.
 
+### 🐍 Python & OpenCV – Computer Vision Exercises
+
+A collection of beginner computer vision exercises developed in Python using OpenCV, covering image filtering, color detection, and basic face and feature detection through real-time webcam processing.
+
 ## 🌐 Other Project
 
 [Omar & Nada's Wedding](https://github.com/omar-and-nada-wedding/Omar-Nada-s-Wedding)
