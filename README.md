@@ -10,7 +10,7 @@ My main interests are **embedded systems, robotics, automation, and control**, a
 C · Embedded C · Python
 
 **Embedded & Hardware I have worked with and studied:**
-AVR · ESP32 · PWM · RTOS Concepts · Hardware/Software Integration
+AVR · ESP32 · PWM · FreeRTOS Fundamentals · Hardware/Software Integration
 
 **Engineering Skills I gained during college:**
 MATLAB / Simulink · PLC / LOGO! · AutoCAD · Autodesk Inventor · Proteus
