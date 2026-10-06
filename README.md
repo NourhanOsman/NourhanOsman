@@ -6,20 +6,24 @@ My main interests are **embedded systems, robotics, automation, and control**, a
 
 ## 🔧 Tech & Tools
 
-**Programming Languages I've worked with:**
+**Programming Languages:**
 C · Embedded C · Python
 
-**Embedded & Hardware I have worked with and studied:**
+**Embedded & Hardware:**
 AVR · ESP32 · PWM · FreeRTOS Fundamentals · Hardware/Software Integration
 
-**Engineering Skills I gained during college:**
+**Engineering & Simulation Tools:**
 MATLAB / Simulink · PLC / LOGO! · AutoCAD · Autodesk Inventor · Proteus
 
 ## 🚀 Featured Projects
 
 ### Upper-Limb Rehabilitation Exoskeleton
 
-I worked on one of the operating modes from my graduation project: an upper-limb rehabilitation exoskeleton combining embedded control, sensing, actuation, and wireless communication.
+Developed an operating mode for an upper-limb medical exoskeleton integrating embedded control, sensing, actuation, and wireless communication. Worked with ESP32 and MATLAB/Simulink to implement and test the control system.
+
+### MATLAB Robotic Arm Control
+
+MATLAB and Arduino control of a 3-DOF robotic arm using forward/inverse kinematics and trajectory planning.
 
 ### PWM Drawer
 
@@ -33,7 +37,7 @@ A menu-driven C application demonstrating structs, pointers, modular programming
 
 A collection of beginner computer vision exercises developed in Python using OpenCV, covering image filtering, color detection, and basic face and feature detection through real-time webcam processing.
 
-## 🌐 Other Project
+## 🌐 Other Projects
 
 [Omar & Nada's Wedding](https://github.com/omar-and-nada-wedding/Omar-Nada-s-Wedding)
 
@@ -52,3 +56,4 @@ I'm interested in opportunities involving **embedded systems, firmware, robotics
 ## ⚡ Fun fact
 
 My family name **IS Donia** 😂
+I share my workspace with two feline engineers who specialize in quality control 🐈 
