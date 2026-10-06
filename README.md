@@ -43,9 +43,9 @@ A collection of beginner computer vision exercises developed in Python using Ope
 
 A personal web development project designed, developed, and deployed for a family wedding 🤵👰‍♀️
 
-## 📚 Currently Learning & Improving
+## 📚 Currently Focusing On
 
-STM32 · Python · Git · Embedded Software Development
+Embedded Systems · Firmware Development · Real-Time Systems
 
 ## 🤝 Connect
 
